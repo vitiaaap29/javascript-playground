@@ -1,3 +1,5 @@
-﻿'use strict';
+﻿(function () {
+    'use strict';
 
-console.log('Script 1 executing');
+    console.log('Script 1 executing');
+})();

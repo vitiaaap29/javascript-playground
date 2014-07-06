@@ -1,4 +1,5 @@
 ﻿(function () {
+    'use strict';
 
     var loadScript = function (src, async, defer) {
         var script = document.createElement('script'),
@@ -16,7 +17,6 @@
 
         head.appendChild(script);
     };
-
 
     loadScript('js/script1.js?delay=9000', false);
     loadScript('js/script2.js?delay=7000', false);

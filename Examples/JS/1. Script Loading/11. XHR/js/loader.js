@@ -1,4 +1,5 @@
 ﻿(function () {
+    'use strict';
 
     var loadScript = function (src) {
         function loaded() {
@@ -18,10 +19,8 @@
         request.send();
     };
 
-
     loadScript('js/script1.js?delay=9000');
     loadScript('js/script2.js?delay=7000');
     loadScript('js/script3.js?delay=5000');
     loadScript('js/script4.js?delay=3000');
-
 })();

@@ -207,7 +207,6 @@
     <Content Include="4. Patterns\08. Parasitic Inheritance\js\animal.js" />
     <Content Include="4. Patterns\08. Parasitic Inheritance\js\app.js" />
     <Content Include="4. Patterns\08. Parasitic Inheritance\js\bird.js" />
-    <Content Include="SyntaxHighlight.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

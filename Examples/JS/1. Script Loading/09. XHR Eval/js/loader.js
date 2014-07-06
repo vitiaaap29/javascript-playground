@@ -17,5 +17,4 @@
     loadScript('js/script2.js?delay=7000');
     loadScript('js/script3.js?delay=5000');
     loadScript('js/script4.js?delay=3000');
-
 })();
