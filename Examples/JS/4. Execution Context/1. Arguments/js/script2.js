@@ -1,6 +1,6 @@
 ﻿(function () {
 
-    var f = function Test(a) {     
+    var f = function Test(a) {
         var typeOf = typeof arguments;
         var type = Object.prototype.toString(arguments);
         var instanceOf = (arguments instanceof Array);
